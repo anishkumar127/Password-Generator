@@ -254,3 +254,13 @@ button {
 	transform: translatey(-3%);
 	box-shadow: 0 4px 8px rgba(255, 255, 255, 0.08);
 }
+
+#user{
+    color:#fff;
+    text-transform: uppercase;
+    float: right;
+    margin-top: -5px;
+    font-weight: bold;
+    font-size: small;
+    letter-spacing: 5px;
+}
